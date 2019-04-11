@@ -1,4 +1,2 @@
 # s4mcalexam1
-code 
-for
-solving
+new one
